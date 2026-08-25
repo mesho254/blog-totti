@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@prisma/cli": "2.0.0-preview025",
-    "@prisma/client": "4.2.1",
+    "@prisma/client": "7.10.0",
     "@remix-run/node": "1.6.8",
     "@remix-run/react": "1.6.8",
     "@remix-run/serve": "1.6.8",
